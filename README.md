@@ -14,3 +14,11 @@ pip install -r requirements.txt
 chmod +x run_mpi.sh
 ./run_mpi.sh
 ```
+
+## Run FEM Applications
+FEM Applications are performed using sequential RGDBEK on Python 3.11.0.
+``` bash
+pip install -r requirements.txt
+python poisson.py
+python helmholtz.py
+```

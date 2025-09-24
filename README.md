@@ -1,5 +1,5 @@
 # RGDBEK
-Randomized Greedy Double Block Extended Kaczmarz Algorithm
+Randomized Greedy Double Block Extended Kaczmarz Algorithm [arXiv](https://arxiv.org/abs/2509.19267)
 
 ## Run Sequential
 Sequential experiments are performed on MATLAB R2025a.
@@ -22,3 +22,5 @@ pip install -r requirements.txt
 python poisson.py
 python helmholtz.py
 ```
+
+Cite this work as,

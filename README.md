@@ -22,5 +22,3 @@ pip install -r requirements.txt
 python poisson.py
 python helmholtz.py
 ```
-
-Cite this work as,

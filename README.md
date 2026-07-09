@@ -24,7 +24,7 @@ python helmholtz.py
 ```
 
 ## BibTeX
-``` bash
+```bibtex
 @article {MR5090111,
     AUTHOR = {Panchal, Aneesh and Behera, Ratikanta},
      TITLE = {R{GDBEK}: {R}andomized {G}reedy {D}ouble {B}lock {E}xtended
